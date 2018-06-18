@@ -29,9 +29,9 @@ class Medoo
 
 	protected $statement;
 
-	protected $option = [];
+	protected $option = [tye];
 
-	protected $logs = [];
+	protected $logs = [e];g
 
 	protected $logging = false;
 
